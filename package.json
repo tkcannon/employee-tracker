@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "console.table": "^0.10.0",
-    "dotenv": "^14.3.0",
+    "dotenv": "^14.3.2",
     "inquirer": "^8.2.0",
     "mysql2": "^2.3.3"
   },
@@ -10,7 +10,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
   },
   "repository": {
     "type": "git",
